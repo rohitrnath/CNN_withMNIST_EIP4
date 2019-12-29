@@ -1,15 +1,15 @@
 #OUTPUT
 
-{
-	'gender_output_acc'		:	99.8524,
-	'image_quality_output_acc'	:	99.7049,
-	'age_output_acc'		:	99.6615,
-	'weight_output_acc'		:	99.8611,
-	'bag_output_acc'		:	99.8611,
-	'footwear_output_acc'		:	99.8698,
-	'pose_output_acc'		:	99.9132,
-	'emotion_output_acc'		:	99.9392
-}
+
+- 'gender_output_acc'		:	99.8524,
+- 'image_quality_output_acc'	:	99.7049,
+- 'age_output_acc'		:	99.6615,
+- 'weight_output_acc'		:	99.8611,
+- 'bag_output_acc'		:	99.8611,
+- 'footwear_output_acc'		:	99.8698,
+- 'pose_output_acc'		:	99.9132,
+- 'emotion_output_acc'		:	99.9392
+
 
 
 #LOGS
